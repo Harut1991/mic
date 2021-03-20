@@ -20,7 +20,7 @@ gTTS-token==1.1.2
 httplib2==0.11.3
 idna==2.7
 ItsDangerous==1.0.0
-Jinja2==2.10
+Jinja2==2.11.3
 kwconfig==1.1.7
 MarkupSafe==1.0
 nltk==3.3
