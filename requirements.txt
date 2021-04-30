@@ -36,7 +36,7 @@ pyttsx3==2.7
 pytz==2018.6
 PyYAML==3.13
 requests==2.20.0
-rsa==4.0
+rsa==4.7
 search-google==1.2.1
 six==1.11.0
 SpeechRecognition==3.8.1
