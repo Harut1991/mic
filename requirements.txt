@@ -23,7 +23,7 @@ ItsDangerous==1.0.0
 Jinja2==2.10
 kwconfig==1.1.7
 MarkupSafe==1.0
-nltk==3.3
+nltk==3.6.3
 numpy==1.15.3
 opencv-contrib-python==3.4.3.18
 protobuf==3.6.1
